@@ -1,7 +1,7 @@
-##Smart Parking System
+Smart Parking System
 -This is the smart parking system project
 
-#Features
+Features
 	-User and Admin View
 	-User can book the parking online
 	-Different Types of parking available
